@@ -4,14 +4,10 @@
 
 Series management is a ReactJS and ExpressJS fullstack web app made for a friend, so it's a private application with just one user.
 
----
-
 ## **Nice Features**
 - JWT authentication made from scratch.
 - Login persistance using refresh tokens.
 - Protected routing.
-
----
 
 ## **Stack**
 - Typescript
@@ -24,8 +20,6 @@ Series management is a ReactJS and ExpressJS fullstack web app made for a friend
 * [<ins>**API**</ins>](http://series-management-api.herokuapp.com/)
 - [<ins>**Web App**</ins>](https://series-management.vercel.app/)
 
----
-
 ## **Backstory**
 
 A friend of mine asked if i could build a interface so he could interact with a database.
@@ -36,19 +30,13 @@ This app works like a crud linked to this database.
 
 ### **It was a great opportunity to practice my software developing skills, front-end and backend.**
 
----
-
 ## **Simple Showcase**
 
-<div style="display: flex; justify-content: center; gap: 30px; height: 500px; overflow: auto">
-    <img src="https://gabrielaraujo.xyz/github/seriesmanagement/login.gif" style="height: 100%;">
-    <img src="https://gabrielaraujo.xyz/github/seriesmanagement/add.gif" style="height: 100%;">
-    <img src="https://gabrielaraujo.xyz/github/seriesmanagement/listagem.gif" style="height: 100%;">
-
-
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: 1fr; grid-gap: 20px;">
+    <img src="https://gabrielaraujo.xyz/github/seriesmanagement/login.gif" >
+    <img src="https://gabrielaraujo.xyz/github/seriesmanagement/add.gif" >
+    <img src="https://gabrielaraujo.xyz/github/seriesmanagement/listagem.gif">
 </div>
-
----
 
 ## **Future Plans and Improvement**
 
