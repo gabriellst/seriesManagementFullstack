@@ -32,10 +32,10 @@ This app works like a crud linked to this database.
 
 ## **Simple Showcase**
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: 1fr; grid-gap: 20px;">
-    <img src="https://gabrielaraujo.xyz/github/seriesmanagement/login.gif" >
-    <img src="https://gabrielaraujo.xyz/github/seriesmanagement/add.gif" >
-    <img src="https://gabrielaraujo.xyz/github/seriesmanagement/listagem.gif">
+<div>
+    <img src="https://gabrielaraujo.xyz/github/seriesmanagement/login.gif" style="height: 500px;">
+    <img src="https://gabrielaraujo.xyz/github/seriesmanagement/add.gif" style="height: 500px;">
+    <img src="https://gabrielaraujo.xyz/github/seriesmanagement/listagem.gif" style="height: 500px; float: right">
 </div>
 
 ## **Future Plans and Improvement**
