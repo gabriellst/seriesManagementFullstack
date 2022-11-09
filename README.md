@@ -44,3 +44,6 @@ This app works like a crud linked to this database.
 > - Improve desktop experience.
 > - Build future apps using **NextJs**.
 > - Try **OAuth** and **Auth0**.
+
+## Notes
+The code published in this repository is for reference only, **enviroment variables are needed for it to run** since the app was built around them!
