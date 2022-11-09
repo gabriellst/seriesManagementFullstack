@@ -1,6 +1,8 @@
-# Series Management - v1.0
+# Series Management | a React and Express Web App
 
-Series management is a ReactJS and ExpressJS fullstack web app made for a friend, so it's a private application with just one user.
+Series management is a ReactJS and ExpressJS fullstack web app I made for a friend.
+
+It's a private application with just one user, protected by a password only known by him and me.
 
 ## **Features**
 - JWT authentication made from scratch.
@@ -8,11 +10,8 @@ Series management is a ReactJS and ExpressJS fullstack web app made for a friend
 - Protected routing.
 
 ## **Stack**
-- Typescript
-- React
-- Express
-- Axios
-- Prisma
+- Typescript, React, Express, Axios and Prisma.
+
 ### Back-end is being hosted on **Heroku** while the front-end on **Vercel**.
 
 * [<ins>**API**</ins>](http://series-management-api.herokuapp.com/)
